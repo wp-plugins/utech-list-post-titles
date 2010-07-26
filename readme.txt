@@ -1,6 +1,6 @@
 === Utech List Post Titles ===
 Contributors: Meini - Utech Computer Solutions, Sachethan G Reddy
-Tags: latest posts, list latest posts, list posts titles, list latest post titles, latest news, list news, posts, news, list blogs, bogs, blog entries, page 
+Tags: posts, list, blog, blogroll, page, links, shortcode, news
 Requires at least: 2.6
 Tested up to: 3.0
 Stable tag: 2.0
