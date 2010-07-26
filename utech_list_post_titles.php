@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Utech List Posts Titles
+Plugin Name: Utech List Post Titles
 Plugin URI: http://www.utechworld.com/projects/list-posts-for-wp/
 Description: List your latest posts by category using simple shortcode. E.g [utech_latest_posts category='news']
 Version: 2.0

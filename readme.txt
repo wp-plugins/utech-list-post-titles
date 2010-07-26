@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Utech List Post Titles ===
 Contributors: Meini - Utech Computer Solutions, Sachethan G Reddy
 Tags: latest posts, list latest posts, list posts titles, list latest post titles, latest news, list news, posts, news, list blogs, bogs, blog entries, page 
 Requires at least: 2.6
