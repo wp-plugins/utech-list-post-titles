@@ -11,7 +11,7 @@ List your latest posts by category using simple shortcode.
 
 Add a list of your latest blog entries on any page. 
 With simple shortcode you can place a list of your latest news (or other blog category) on any page or post.
-This is a simple plugin base on a query by Sachethan G Reddy that fetches the latest posts titles from any given category.
+This is a simple plugin based on a query by Sachethan G Reddy that fetches the latest posts titles from any given category.
 
 == Installation ==
 
